@@ -1,0 +1,61 @@
+                                                    TownePlace Suites Tehachapi
+                                                          Revenue Report
+ 15Mar26 Run on 16Mar26 02:53 AM                  (DAY 15 OF PERIOD 03) - 31 DAY                                      Page  1
+-----------------------------------------------------------------------------------------------------------------------------------
+
+                                    TODAY'S         LAST YR        PTD'S      LAST YR PTD           YTD'S   LAST YR YTD'S
+                                     ACTUAL          ACTUAL       ACTUAL           ACTUAL          ACTUAL          ACTUAL
+
+      ROOMS-TRANSIENT              8,128.85        8,306.14    135,053.70      145,725.22      649,377.85      627,113.32
+      ROOMS-GROUP                       .00             .00      2,132.00             .00       23,715.00       26,551.00
+      ROOMS-LEASE / CONTRACT            .00             .00           .00             .00             .00             .00
+      ROOMS-MISCELLANEOUS               .00             .00      1,175.00          825.00        6,133.00        4,650.00
+      GNS BILLED                        .00             .00        177.00             .00          335.00          849.12
+      LESS REBATES                      .00             .00        628.00-         769.52-         635.00-       3,780.52-
+      TOTAL ROOM SALES             8,128.85        8,306.14    137,909.70      145,780.70      678,925.85      655,382.92
+
+      FOOD SALES                        .00            2.70-       306.99          312.90        2,226.76        1,971.26
+      BEVERAGE SALES                 118.75          207.25      2,263.60        1,793.00        9,333.46        8,694.95
+      FUNCTION RM. SALES                .00             .00           .00             .00        2,100.00        1,750.00
+      TOTAL F. & B. SALES            118.75          204.55      2,570.59        2,105.90       13,660.22       12,416.21
+
+      TELEPHONE SALES
+         LOCAL                          .00             .00           .00             .00             .00             .00
+         LONG DISTANCE                  .00             .00           .00             .00             .00             .00
+         FAX REVENUE                    .00             .00           .00             .00             .00             .00
+         LESS REBATES                   .00             .00           .00             .00             .00             .00
+      TOTAL TELEPHONE                   .00             .00           .00             .00             .00             .00
+
+      RETAIL SALES                      .00             .00           .00             .00             .00             .00
+      OTHER INCOME                   189.00             .00      2,354.22          794.45        8,268.40        4,569.19
+      TOTAL MISC. SALES              189.00             .00      2,354.22          794.45        8,268.40        4,569.19
+
+      GROSS HOTEL SALES            8,436.60        8,510.69    142,834.51      148,681.05      700,854.47      672,368.32
+
+    # ROOMS OCCUPIED                    55              57           917             938           4,472           4,331
+    # ROOMS VACANT                      25              24           300             290           1,546           1,712
+    # AVAILABLE FOR SALE                82              82         1,230           1,230           6,068           6,068
+    # OUT OF ORDER                       2               0            13               0              50              18
+    # TOTAL ROOMS                       82              82         1,230           1,230           6,068           6,068
+    # COMPLIMENTARY ROOMS                0               0             0               1               2               3
+    # ROOMS SOLD                        55              57           917             937           4,470           4,328
+    # MANUAL ROOM NIGHTS POSTED          0               0             0               1               0               9
+    # ROOM NIGHTS SOLD                  55              57           917             939           4,470           4,337
+    # TOTAL GUESTS                      66              76         1,041           1,065           5,296           5,040
+    # MANUAL POSTINGS                    0               0             2               0              36               0
+      AVG LENGTH OF STAY              15.69
+
+      AVG RATE PER ROOM              147.80          145.72        150.39          155.58          151.88          151.43
+      OCCUPANCY PCT                   67.07           69.51         74.55           76.18           73.67           71.32
+      REV PAR                         99.13          101.29        112.12          118.52          111.89          108.00
+    # CANCELLED RESERVATIONS             0               1             1               6              16              26
+    # GUARANTEED NO-SHOWS                0               0             2               1               3               6
+    # WALK-INS                           0               0            12               4              63              23
+    # EARLY CHECK OUTS                   2               0             8              25              90             100
+
+
+                         MARRIOTT CONFIDENTIAL AND PROPRIETARY INFORMATION The contents of this material
+                         are confidential and proprietary to Marriott International, Inc. and may not be
+                         reproduced, disclosed, distributed or used without the express permission of an
+                         authorized representative of Marriott. Any other use is expressly prohibited.
+
