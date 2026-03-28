@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  myapp:
+    build: .
+    container_name: revenue_report_app
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
