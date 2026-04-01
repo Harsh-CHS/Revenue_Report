@@ -19,6 +19,7 @@ BASE_DIR = "/data/data"
 INCOMING_DIR = os.path.join(BASE_DIR, "incoming")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 PROCESSED_DIR = os.path.join(BASE_DIR, "processed")
+LOG_DIR = os.path.join(BASE_DIR, "logs")
 
-for folder in [INCOMING_DIR, OUTPUT_DIR, PROCESSED_DIR]:
+for folder in [INCOMING_DIR, OUTPUT_DIR, PROCESSED_DIR, LOG_DIR]:
     os.makedirs(folder, exist_ok=True)
